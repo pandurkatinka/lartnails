@@ -1,0 +1,51 @@
+#fp-nav li .active span, .fp-slidesNav .active span {
+    background: #2fcc72 ;
+}
+
+.page .content .subhead {
+	color: #fff176;
+	color: #2fcc72;
+}
+.quick-link ul li.active::after {
+    background: #fff176;
+    background: #2fcc72;
+}
+.page-cent .p-title h3 {
+    border-bottom-color: #fff176;
+    border-bottom-color: #2fcc72;
+}
+.quick-link ul li.active a {
+	color: #1d1d1d;
+}
+.quick-link li::before {
+    border-bottom: none;
+}
+.quick-link a:hover:after{
+	background: #2fcc72;
+}
+.quick-link ul li.active a:hover {
+	color: #fff;
+}
+.quick-link a:hover{
+	color: #fff;
+}
+
+.page-cent .p-title h3 {
+    border-bottom-color: rgba(255, 255, 255, 0.2);
+}
+.page .form button {
+    background: #2fcc72;
+}
+.page .form button:hover {
+    background: #fff;
+	color: #2fcc72;
+}
+.page .form button:after{
+	background: #1d1d1d;
+}
+.page .form .fields{
+    border-bottom-color: #2fcc72;
+}
+.page-contact .p-title .buttons a:hover{
+	background: #2fcc72;
+}
