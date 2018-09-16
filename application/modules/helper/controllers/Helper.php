@@ -52,8 +52,8 @@ class Helper extends MX_Controller {
 
 
     function create_seo_string($txt) {
-        $ekezetes = array(',', 'á', ' ', 'Á', 'É', 'Í', 'Ó', 'Ö', '&#213;', 'Ú', 'Ü', '&#219;', 'á ', 'é', 'í', 'ó', 'ö', '&#245;', 'ú', 'ü', '&#251;', 'ű', 'Ű ', 'Ő', 'ő', 'lő', 'ű', 'á', '!', '?');
-        $ekezettelen = array('', 'a', '_', 'a', 'e', 'i', 'o', 'o', 'o', 'u', 'u', 'u', 'a', 'e', 'i', 'o', 'o', 'o', 'u', 'u', 'u', 'u', 'U', 'o', 'o', 'u', 'a', '', '');
+        $ekezetes = array(',', 'á', ' ', 'Á', 'É', 'Í', 'Ó', 'Ö', '&#213;', 'Ú', 'Ü', '&#219;', 'á ', 'é', 'í', 'ó', 'ö', '&#245;', 'ú', 'ü', '&#251;', 'ű', 'Ű ', 'Ő', 'ő', 'ű', 'á', '!', '?','Ű');
+        $ekezettelen = array('', 'a', '-', 'a', 'e', 'i', 'o', 'o', 'o', 'u', 'u', 'u', 'a', 'e', 'i', 'o', 'o', 'o', 'u', 'u', 'u', 'u', 'u', 'o', 'o', 'u', 'a', '', '','u');
         $url = rawurlencode(mb_strtolower(str_replace($ekezetes, $ekezettelen, $txt), 'UTF-8')); 
         if($url === 'fooldal' || $url === 'index' || $url === 'kezdolap') return '';
         return $url;

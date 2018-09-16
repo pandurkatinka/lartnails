@@ -3,11 +3,7 @@
  * Contact Model
  *
  *
- * @package    	PopCMS - Contact
- * @copyright  	Copyright (c) 2016 Horvath Mate & Csoma Gergo
- * @version    	1.0
- * @author     	Horvath Mate <horvath.mate@popularmarketing.hu>
- *              Csoma Gergo <csoma.gergo@popularmarketing.hu>
+ * @package    
  */
 
 // ------------------------------------------------------------------------
@@ -23,7 +19,7 @@ class Contact_model extends CI_Model implements ManageMenu {
     
     function fill_menu($menu){
     	$menu->addMenuItem(
-    		new MenuItem('contact', 'Kapcsolat', NULL, NULL)
+    		new MenuItem('kapcsolat', 'Kapcsolat', NULL, NULL)
     		);
     }
 

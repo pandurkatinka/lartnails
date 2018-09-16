@@ -4,7 +4,7 @@
  * OwnHelpers Model
  *
  *
- * @author     	Csoma Gergő & Horváth Máté
+
  * @version    	1.0
  */
 

@@ -51,6 +51,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 */
 $route['default_controller'] = 'frontpage';
 $route['pages/(:any)'] = 'pages';
+$route['kapcsolat'] = 'contact';
 //Hirek
 $route['hirek'] = 'news';
 $route['hirek/(:any)'] = 'news';

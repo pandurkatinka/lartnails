@@ -281,7 +281,7 @@ class Admin extends MX_Controller {
 
 			$this->email->set_mailtype("html");
 
-            $this->email->from('popularmarketing@benedek.hu', 'Popularmarketing Benedek');
+            $this->email->from('info@lartnails.hu', 'Lart Nails');
             $this->email->to($row->email);
 
 			$targy = str_replace("*NEV*", $row->name, $targy_alap);

@@ -22,7 +22,7 @@
 						 
 			<div>
 				
-				<img src="../../wp-content/uploads/2018/07/MANICURE-TYTANOWY.jpg" alt="" />
+				<img src="<?php echo base_url() ?>assets/template/frontend/img/titan-mukorom.png" alt="" />
 			</div>
 			
 			     
@@ -57,18 +57,18 @@
 				
 								 
 				<p class="h3 mb-2"><b>TÖKÉLETES ÁLLAG </b></p>
-				<div class="products-description"><p>A folyadékok nem sűrűsödnek, a porok magasan pigmentáltak.</p>
+				<div class="products-description"><p>A folyadékok nem sűrűsödnek, a porok magasan pigmentáltak.<br><br><br></p>
 </div>
 				 
 				<p class="h3 mb-2"><b>EGYEDI KISZERELÉS</b></p>
 				<div class="products-description"><p>A 14 és 28gr. színeknek köszönhetően kevesebb befektetéssel tehetsz szert szélesebb színválasztékra.</p>
 </div>
 				 
-				<p class="h3 mb-2"><b>GAZDASÁGOS</b></p>
-				<div class="products-description"><p>1 tégely színes por (28gr) több mint 40 vendégre elegendő. Így a befektetésed x vendég után megtérül.</p>
+				<p class="h3 mb-2"><b><br>GAZDASÁGOS</b></p>
+				<div class="products-description"><p>1 tégely színes por (28gr) több mint 50 vendégre elegendő. Így a befektetésed hamar megtérül.</p>
 </div>
 				 
-				<p class="h3 mb-2"><b>KEVESEBB MUNKAIDŐ</b></p>
+				<p class="h3 mb-2"><b><br>KEVESEBB MUNKAIDŐ</b></p>
 				<div class="products-description"><p>Alkalmazása során nem használunk UV LED lámpát és kulönböző ecseteket. Természetes körömre akár 45 perc alatt elkészíthető.</p>
 </div>
 				     
@@ -115,7 +115,7 @@
 								
 				
 								 
-				<a class="prod-button mt-3" href="http://sklep.vkcosmetic.pl/en/38-lart-dipping-system" target="_blank">MEGVESZEM</a>
+				<a class="prod-button mt-3" href="#" target="_blank">HAMAROSAN!</a>
 				     
 								
 			</div>

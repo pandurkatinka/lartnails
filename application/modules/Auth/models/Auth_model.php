@@ -3,11 +3,7 @@
  * Login Model
  *
  *
- * @package    	PopCMS - Login
- * @copyright  	Copyright (c) 2016 Horvath Mate & Csoma Gergo
- * @version    	1.0
- * @author     	Horvath Mate <horvath.mate@popularmarketing.hu>
- *              Csoma Gergo <csoma.gergo@popularmarketing.hu>
+ * @package    	
  */
 
 // ------------------------------------------------------------------------

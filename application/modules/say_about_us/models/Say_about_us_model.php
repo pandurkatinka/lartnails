@@ -3,10 +3,7 @@
  * Gallery Model
  *
  *
- * @package    	PopCMS - Say About Us
- * @copyright  	Copyright (c) 2016 Horvath Mate & Csoma Gergo
- * @version    	1.0
- * @author     	Csoma Gergo <csoma.gergo@popularmarketing.hu>
+ * @package    	
  */
 // ------------------------------------------------------------------------
 

@@ -22,7 +22,7 @@
 						 
 			<div>
 				
-				<img src="../../wp-content/uploads/2018/07/LAKIERY-HYBRYDOWE.jpg" alt="" />
+				<img src="<?php echo base_url() ?>assets/template/frontend/img/gellakk-rendszer.png" alt="" />
 			</div>
 			
 			     
@@ -34,9 +34,9 @@
 		<div class="container text-center my-5">
 			<div class="row-custom w-100">
 				<div class="col-12">
-											<h2 class="line-title-center">LART az innovatív hibrid géllakkok világa</h2>
+											<h2 class="line-title-center">Az innovatív hybrid géllakkok világa</h2>
 																<div class="font-2 color-3">
-							<p><span id="result_box" class="" lang="en"><span class="">, ahol a szendvedély és kreativitás egyesül a körmök gondozásával.</span> <span class="">A LART hibrid géllakk család termékeiben nincs parabén, ftalát, DBP, ezáltal természetes összetevőket biztosít, &#8211; beleértve</span> <span class="">a MICA-t és a szilícium-dioxidot is.</span> <span class="">A forradalmi "Infinity" rendszer megoldást nyújt az egyenetlen és sérült körömlemezre. Tökéletes állagának köszönhetően könnyű kezelhetőséget biztosít, elszíneződés nélkül.</span></span></p>
+							<p><span id="result_box" class="" lang="en"><span class="">Ahol a szendvedély és kreativitás egyesül a körmök gondozásával.</span> <span class="">A LART hybrid géllakk család termékeiben nincs parabén, ftalát, DBP, ezáltal természetes összetevőket biztosít, &#8211; beleértve</span> <span class="">a MICA-t és a szilícium-dioxidot is.</span> <span class="">A forradalmi "Infinity" rendszer megoldást nyújt az egyenetlen és sérült körömlemezre. Tökéletes állagának köszönhetően könnyű kezelhetőséget biztosít elszíneződés nélkül.</span></span></p>
 						</div>
 										
 														</div>
@@ -57,19 +57,19 @@
 				
 								 
 				<p class="h3 mb-2"><b>TERMÉSZETES ÖSSZETEVŐK</b></p>
-				<div class="products-description"><p><span id="result_box" class="" lang="en"><span class="">mint a MICA és a szilícium-dioxid számos természetes kozmetikum összetevője, amik nem okoznak irritációt és allergiát.</span></span></p>
+				<div class="products-description"><p><span id="result_box" class="" lang="en"><span class="">Mint a MICA és a szilícium-dioxid számos természetes kozmetikum összetevője, amik nem okoznak irritációt és allergiát.</span></span></p>
 </div>
 				 
 				<p class="h3 mb-2"><b>DBP, FTALÁT, ÉS PARABÉN MENTES</b></p>
-				<div class="products-description"><p><span id="result_box" class="" lang="en">a szakszerűen használt LART termékek nem károsítják a természetes körmöket, <span class="">ráadásul teljesen biztonságok a várandós nők számára.</span></span></p>
+				<div class="products-description"><p><span id="result_box" class="" lang="en">A szakszerűen használt LART termékek nem károsítják a természetes körmöket, <span class="">ráadásul teljesen biztonságok a várandós nők számára.</span></span></p>
 </div>
 				 
 				<p class="h3 mb-2"><b>ÁLLATOKON NEM TESZTELT</b></p>
-				<div class="products-description"><p><span id="result_box" class="" lang="en"><span class="">emelett nem tartalmaznak állati eredetű összetevőket, valamint géntechnológiával módosított vegyületeket.</span></span></p>
+				<div class="products-description"><p><span id="result_box" class="" lang="en"><span class="">Emelett nem tartalmaznak állati eredetű összetevőket, valamint géntechnológiával módosított vegyületeket.</span></span></p>
 </div>
 				 
 				<p class="h3 mb-2"><b>EXKLÚZÍV MEGJELENÉS</b></p>
-				<div class="products-description"><p><span id="result_box" class="" lang="en"><span class="">gyönyörű dizájn és a mérnöki formatervezés teszi egyedivé a LART termékeket, amit imádnak a Magyar Nők.</span></span></p>
+				<div class="products-description"><p><span id="result_box" class="" lang="en"><span class="">Gyönyörű dizájn és a mérnöki formatervezés teszi egyedivé a LART termékeket, amit imádnak a Magyar Nők.</span></span></p>
 </div>
 				     
 								
@@ -82,7 +82,7 @@
 					
 				</div>
 								 
-				<a class="prod-button mt-3" href="http://sklep.vkcosmetic.pl/en/36-lart-gel-polish" target="_blank">VÁSÁROLJ MOST</a>
+				<a class="prod-button mt-3" href="#" target="_blank">HAMAROSAN!</a>
 				     
 								
 			</div>
@@ -90,15 +90,15 @@
 				
 								 
 				<p class="h3 mb-2"><b>FORRADALMI TARTÓSSÁG</b></p>
-				<div class="products-description"><p><span id="result_box" class="" lang="en">lepattogás, csepegés és fakulás nélkül, köszönhetően a LART Infinity rendszerének. <span class="">Az Infinity Base Gel egy ideális, tartós egységet hoz létre az Infinity Gel Top segítségével, amely gyönyörű ragyogást biztosít és véd az elszíneződés ellen.</span></span></p>
+				<div class="products-description"><p><span id="result_box" class="" lang="en">Lepattogás, csepegés és fakulás nélkül, köszönhetően a LART Infinity rendszerének. <span class="">Az Infinity Base Gel egy ideális, tartós egységet hoz létre az Infinity Gel Top segítségével, amely gyönyörű ragyogást biztosít és véd az elszíneződés ellen.<br><br><br></span></span></p>
 </div>
 				 
 				<p class="h3 mb-2"><b>TÖBB, MINT 100 INTENZÍV SZÍN</b></p>
-				<div class="products-description"><p><span id="result_box" class="" lang="en"><span class="">a legdivatosabb árnyalatok korlátlan lehetőséget kínálnak az igazi remekművek elkészítéséhez.</span> <span class="">Az anyagok felvitele rendkívül egyszerű az egyedi formatervezésnek köszönhetően.</span></span></p>
+				<div class="products-description"><p><span id="result_box" class="" lang="en"><span class="">A legdivatosabb árnyalatok korlátlan lehetőséget kínálnak az igazi remekművek elkészítéséhez.</span> <span class="">Az anyagok felvitele rendkívül egyszerű az egyedi formatervezésnek köszönhetően.<br><br><br></span></span></p>
 </div>
 				 
 				<p class="h3 mb-2"><b>ERGONÓMIKUS ECSET</b></p>
-				<div class="products-description"><p><span id="result_box" class="" lang="en"><span class="">precíz kialakítása megkönnyíti a munkát és segít a kreatív ötletek megvalósításában mesteri szinteken.</span></span></p>
+				<div class="products-description"><p><span id="result_box" class="" lang="en"><span class="">Precíz kialakítása megkönnyíti a munkát és segít a kreatív ötletek megvalósításában mesteri szinteken.<br><br></span></span></p>
 </div>
 				     
 							</div>

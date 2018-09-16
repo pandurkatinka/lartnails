@@ -85,10 +85,7 @@ a:hover,
 a:active {
 	outline:0;
 }
-input:focus {
-	outline:0;
-	border:1px solid #04A4CC;
-}
+
 
 /*------------------------------------*\
     STRUCTURE
@@ -187,7 +184,7 @@ only screen and (min-resolution:144dpi) {
 \*------------------------------------*/
 
 ::selection {
-	background:#04A4CC;
+	background:#000000;
 	color:#FFF;
 	text-shadow:none;
 }
@@ -469,7 +466,7 @@ svg:not(:root) {
     overflow: hidden
 }
 button,
-input,
+
 optgroup,
 select,
 textarea {
@@ -477,8 +474,7 @@ textarea {
     line-height: 1.15;
     margin: 0
 }
-button,
-input {
+button {
     overflow: visible
 }
 button,
@@ -740,7 +736,6 @@ img {
 a,
 area,
 button,
-input,
 label,
 select,
 summary,
@@ -771,7 +766,7 @@ button:focus {
     outline: 5px auto -webkit-focus-ring-color
 }
 button,
-input,
+
 select,
 textarea {
     line-height: inherit
@@ -780,12 +775,7 @@ input[type=checkbox]:disabled,
 input[type=radio]:disabled {
     cursor: not-allowed
 }
-input[type=date],
-input[type=time],
-input[type=datetime-local],
-input[type=month] {
-    -webkit-appearance: listbox
-}
+
 textarea {
     resize: vertical
 }
@@ -803,9 +793,7 @@ legend {
     font-size: 1.5rem;
     line-height: inherit
 }
-input[type=search] {
-    -webkit-appearance: none
-}
+
 output {
     display: inline-block
 }
@@ -9317,17 +9305,7 @@ a.text-gray-dark:hover {
 	width:100%;
 }
 
-input[type="submit"]{
-	border:0;
-	background: #575756;
-	color:white;
-	font-weight:5400;
-	font-size:20px;
-}
 
-input[type="submit"]:hover{
-	background: #ef7d00;
-}
 
 /* FOOTER */
 
@@ -9552,17 +9530,41 @@ input[type="submit"]:hover{
 	display:inline-block;
 	
 }
+.btn-kafelek input{
+    padding: 15px 20px;
+    border:2px solid #000000;
+    font-family: 'Open Sans', sans-serif;
+    color:#000000;
+    transition: all 0.3s linear;
+    text-transform: uppercase;
+    display:inline-block;
+    
+}
 
 .btn-kafelek a:hover{
 	text-decoration:none;
 	padding: 15px 40px;
 	transition: all 0.3s linear;
 }
+.btn-kafelek input:hover{
+    text-decoration:none;
+    padding: 15px 40px;
+    transition: all 0.3s linear;
+}
 
 .btn-kafelek{
 	text-align:center;
 	position:relative;
 	
+}
+.font-1 input{
+    margin-bottom: 20px;
+    border: 1px solid #000;
+}
+
+
+.font-1 #id {
+    padding: 5px 10px;
 }
 
 i{

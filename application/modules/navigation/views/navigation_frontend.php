@@ -6,7 +6,7 @@
 					
 					<div id="sticky_header" class="sticky-header-normal bgcolor-1">
 					<div class="logo">
-							<a href="index.html">
+							<a href="<?php echo base_url()  ?>">
 								<!-- svg logo - toddmotto.com/mastering-svg-use-for-a-retina-web-fallbacks-with-png-script -->
 								<img src="<?php echo base_url() ?>assets/template/frontend/img/logo_lart_white.png" alt="Logo" class="logo-img">
 							</a>

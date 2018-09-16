@@ -44,7 +44,7 @@ class Contact extends MX_Controller {
                 $this->load->library('email', $config);
                 $this->email->set_newline("\r\n");
                 $this->email->from($email);
-                $this->email->to($this->db->get("contact_info")->row()->publicemail);
+                $this->email->to('pandurkatinka@gmail.com');
                 $this->email->subject(lang("email_contact_name")." ".$subject.base_url());
                 $this->email->message($email_body);
 

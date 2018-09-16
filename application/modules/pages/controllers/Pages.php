@@ -25,11 +25,11 @@ class Pages extends MX_Controller {
         // if you want to use shortcodes on your pages admin -> use this function to load the shortcode replacer from the Pages_model
         $data['site_data'][0]->content = $this->Pages_model->parseShortcodes($data['site_data'][0]->content);
         switch ($url) {
-            case 'lart_dipping_system':
+            case 'lart-titan-manikur':
                 $this->load->viewfront('lart_dipping_system', $data, FALSE, 0);
                 break;
 
-            case 'lart_gel_polish_system':
+            case 'lart-hybrid-gellakk':
                 $this->load->viewfront('lart_gel_polish_system', $data, FALSE, 0);
                 break;
            
